@@ -1,0 +1,22 @@
+fastapi==0.115.0
+langchain==0.3.3
+langchain_community==0.3.2
+langchain_core==0.3.10
+langchain_experimental==0.3.2
+langchain_google_genai==2.0.1
+langchain_groq==0.2.0
+pydantic==2.9.2
+uvicorn==0.31.1
+yfinance==0.2.44
+python-dotenv==1.0.1
+Requests==2.32.3
+streamlit==1.39.0
+
+## Can ignore:
+# faiss-cpu
+# groq
+# PyPDF2
+# pypdf
+# google-cloud-aiplatform>=1.38
+# huggingface
+# python-multipart
